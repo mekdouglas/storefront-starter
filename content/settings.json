@@ -4,10 +4,8 @@
   "primary_color": "",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-dark"
   },
-  "icons_font": "_",
-  "font_family": "_",
   "bg_color": "#ffffff",
   "repository": "",
   "logo": "/img/uploads/logo.png",
@@ -16,7 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "",
   "icon": "/img/icon.png",
