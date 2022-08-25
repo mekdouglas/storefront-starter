@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4d406c0158e7eeea20270f6b1379f049.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.df9745f9db77d102eed974df61111079.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.ee8a0b5bc7444a86144ac41ad08ca552.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.4162770bcce1c2616c2574897d5bf81e.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.68c0158cf0ab5c0a28b9dfdadd8f30b0.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Sala Tática",
+  "short_name": "Sala Tática",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sala Tática",
+  "background_color": "#ffffff",
+  "theme_color": "#20c997"
+}
